@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Indira Gandhi National Disability Pension Scheme",
+        "description": "Provides financial assistance to persons with disabilities from low-income families.",
+        "apply_link": "https://nsap.nic.in",
+        "income_max": 200000,
+        "disability_required": true,
+        "education": "any",
+        "location": "any"
+    },
+    {
+        "name": "Post Matric Scholarship for Students with Disabilities",
+        "description": "Scholarship support for students with disabilities pursuing higher education.",
+        "apply_link": "https://scholarships.gov.in",
+        "income_max": 250000,
+        "disability_required": true,
+        "education": "student",
+        "location": "any"
+    },
+    {
+        "name": "Pradhan Mantri Awas Yojana (PMAY)",
+        "description": "Affordable housing scheme for economically weaker sections.",
+        "apply_link": "https://pmaymis.gov.in",
+        "income_max": 300000,
+        "disability_required": false,
+        "education": "any",
+        "location": "any"
+    },
+    {
+        "name": "National Rural Employment Guarantee Scheme (MGNREGA)",
+        "description": "Provides guaranteed wage employment to rural households.",
+        "apply_link": "https://nrega.nic.in",
+        "income_max": 250000,
+        "disability_required": false,
+        "education": "any",
+        "location": "rural"
+    }
+]
